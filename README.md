@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Hanzla Qadri 👋
+# Hi, I'm Muhammad Hanzla 👋
 
 ### MERN Stack Developer | React.js & Node.js Developer
 
